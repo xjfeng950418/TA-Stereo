@@ -1,1 +1,1 @@
-# TANet
+# TA-Stereo
